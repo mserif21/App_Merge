@@ -1,16 +1,42 @@
-# app_merge
+# 🧩 App Merge - Çok Amaçlı Flutter Uygulaması
 
-A new Flutter project.
+Bu uygulama, Flutter ile geliştirilmiş çok amaçlı bir mobil uygulamadır. Kullanıcıya günlük hayatını kolaylaştıracak çeşitli araçlar sunar.
 
-## Getting Started
+## 🚀 Özellikler
 
-This project is a starting point for a Flutter application.
+- 📏 **BMI Hesaplayıcı**  
+  Vücut Kitle İndeksi hesaplaması yapar.
 
-A few resources to get you started if this is your first Flutter project:
+- 💱 **Döviz Çevirici**  
+  Güncel kurlara göre para birimi dönüştürme.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 🎂 **Yaş Hesaplayıcı**  
+  Doğum tarihine göre yaş hesaplama.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- ❌⭕ **XOX Oyunu (Tic Tac Toe)**  
+  2 kişilik klasik kutu oyunu.
+
+- 🌓 **Tema Desteği**  
+  Açık/Karanlık mod (Dark Mode) geçişi.
+
+- 📱 **Google AdMob Reklamları**  
+  Uygulama içinde banner ve geçiş reklam desteği.
+
+## 🧠 Kullanılan Teknolojiler
+
+- **Flutter**
+- **Provider (State Management)**
+- **Google Fonts**
+- **AdMob (google_mobile_ads)**
+- **Material 3 Design**
+- **Modüler Sayfa Yapısı**
+
+## 📁 Proje Yapısı
+
+```bash
+lib/
+├── main.dart              # Giriş ve sağlayıcı tanımları
+├── theme/                 # Tema yapılandırmaları
+├── providers/             # State yönetimi sınıfları
+├── pages/                 # Uygulama içi tüm ekranlar
+└── services/              # Reklam yönetimi vb. servisler
