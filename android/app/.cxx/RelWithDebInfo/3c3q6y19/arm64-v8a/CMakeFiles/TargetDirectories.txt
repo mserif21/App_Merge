@@ -1,0 +1,2 @@
+C:/Users/X-man/AndroidStudioProjects/Cursor AI/app_merge/android/app/.cxx/RelWithDebInfo/3c3q6y19/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/X-man/AndroidStudioProjects/Cursor AI/app_merge/android/app/.cxx/RelWithDebInfo/3c3q6y19/arm64-v8a/CMakeFiles/rebuild_cache.dir
