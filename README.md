@@ -2,6 +2,19 @@
 
 Bu uygulama, Flutter ile geliştirilmiş çok amaçlı bir mobil uygulamadır. Kullanıcıya günlük hayatını kolaylaştıracak çeşitli araçlar sunar.
 
+
+## 📸 Ekran Görüntüleri
+
+<div style="display: flex; gap: 10px;margin-top: 20px;">
+  <img src="assets/apmerge/lightmode.jpg" alt="Ana Sayfa" width="19%" />
+  <img src="assets/apmerge/darkmode.jpg" alt="Ana Sayfa dark" width="19%" />
+  <img src="assets/apmerge/splash.jpg" alt="Splash" width="19%" />
+  <img src="assets/apmerge/xoxo.jpg" alt="xoxo" width="19%" />
+  <img src="assets/apmerge/logo.jpg" alt="Logo" width="19%" />
+  
+</div>
+
+
 ## 🚀 Özellikler
 
 - 📏 **BMI Hesaplayıcı**  
